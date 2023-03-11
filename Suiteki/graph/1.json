@@ -3,7 +3,7 @@
 	"graphic": [
 		{
 			"type": "str",
-			"context": "测试",
+			"context": "测114514试",
 			"style": "normal"
 		},		{
 			"type": "img",
@@ -14,4 +14,4 @@
 			"style": "normal"
 		}
 	]
-}
+}   
