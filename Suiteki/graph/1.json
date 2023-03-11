@@ -1,0 +1,17 @@
+{
+	"title": "测试公告",
+	"graphic": [
+		{
+			"type": "str",
+			"context": "测试",
+			"style": "normal"
+		},		{
+			"type": "img",
+			"context": "https://sky233.ml/images/avatar.png"
+		},		{
+			"type": "str",
+			"context": "测试",
+			"style": "normal"
+		}
+	]
+}
