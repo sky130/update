@@ -3,7 +3,7 @@
 	"graphic": [
 		{
 			"type": "str",
-			"context": "测114514试",
+			"context": "测试",
 			"style": "normal"
 		},		{
 			"type": "img",
@@ -12,6 +12,14 @@
 			"type": "str",
 			"context": "测试",
 			"style": "normal"
+		},		{
+			"type": "str",
+			"context": "于是这个框架我还在调试中",
+			"style": "normal"
+		},		{
+			"type": "str",
+			"context": "支持加大加粗",
+			"style": "bold"
 		}
 	]
-}   
+}
