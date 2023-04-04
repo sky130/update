@@ -1,7 +1,7 @@
 {
-    "version_code": "24",
-    "version_name": "1.8.1-Beta",
-    "update_text": "- 新增设备管理\n- 修复一言鸣谢的头像无法显示\n- 优化蓝牙同步过程\n",
-    "update_time": "2023/2/3 00:37",
-    "app_link":"https://canteam.cn/s/agMin"
+    "version_code": "25",
+    "version_name": "1.8.2-Beta",
+    "update_text": "- 修复图标不规范问题\n- 优化界面图标\n- 采用全新蓝牙安装策略\n- 修复“10D30A”&“10D50*”错误",
+    "update_time": "2023/4/4 18:34",
+    "app_link":"https://canteam.cn/s/B1gC9"
 }
