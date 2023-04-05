@@ -1,7 +1,7 @@
 {
-    "version_code": "25",
-    "version_name": "1.8.2-Beta",
-    "update_text": "- 修复图标不规范问题\n- 优化界面图标\n- 采用全新蓝牙安装策略\n- 修复“10D30A”&“10D50*”错误",
+    "version_code": "26",
+    "version_name": "1.8.3-Beta",
+    "update_text": "- 支持Amazfit GTR4\n- 修复反馈码不返回现象",
     "update_time": "2023/4/4 18:34",
-    "app_link":"https://canteam.cn/s/B1gC9"
+    "app_link":"https://canteam.cn/s/9xjfY"
 }
