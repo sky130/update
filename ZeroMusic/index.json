@@ -1,7 +1,7 @@
 {
     "version_code": "18",
     "version_name": "1.1.8-Beta",
-    "update_text": "测试更新",
+    "update_text": "- 新增尚未完善的黑名单功能\n- 新增专辑轨道号显示\n- 列表滚动到顶部\n- 新增多选添加音乐至歌单功能\n- 播放列表自动滚到当前播放",
     "update_data": "2023/8/13",
     "update_time": "23:28",
     "download_link": "https://ghproxy.com/?q=https%3A%2F%2Fraw.githubusercontent.com%2Fsky130%2Fupdate%2Fmain%2FZeroMusic%2Fapk%2Fapk.file",
