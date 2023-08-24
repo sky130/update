@@ -1,9 +1,9 @@
 {
-    "version_code": "20",
-    "version_name": "1.1.9-Beta",
-    "update_text": "- 修复多选音乐时的bug\n- 尝试修复闪退问题\n- 尝试完善黑名单功能",
-    "update_data": "2023/8/14",
-    "update_time": "20:31",
+    "version_code": "21",
+    "version_name": "1.2.0-Beta",
+    "update_text": "- 无法扫描音乐\n - 完善黑名单功能",
+    "update_data": "2023/8/24",
+    "update_time": "10:57",
     "download_link": "https://ghproxy.com/?q=https%3A%2F%2Fraw.githubusercontent.com%2Fsky130%2Fupdate%2Fmain%2FZeroMusic%2Fapk%2Fapk.file",
     "github_link": "https://sky130.github.io/update/ZeroMusic/apk/apk.file"
 }
