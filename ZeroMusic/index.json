@@ -1,9 +1,9 @@
 {
-    "version_code": "22",
-    "version_name": "1.2.1-Beta",
+    "version_code": "23",
+    "version_name": "2.0.0",
     "update_text": "- 修复无法扫描音乐\n- 完善黑名单功能\n- 支持自定义背景\n- 修复专辑闪退",
-    "update_data": "2023/8/24",
-    "update_time": "22:26",
+    "update_data": "2023/8/27",
+    "update_time": "22:45",
     "download_link": "https://ghproxy.com/?q=https%3A%2F%2Fraw.githubusercontent.com%2Fsky130%2Fupdate%2Fmain%2FZeroMusic%2Fapk%2Fapk.file",
     "github_link": "https://sky130.github.io/update/ZeroMusic/apk/apk.file"
 }
