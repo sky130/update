@@ -1,7 +1,7 @@
 {
     "version_code": "24",
     "version_name": "2.0.1",
-    "update_text": "- 修复添加黑名单后导致的闪退\n- 修复播放状态更新不同步\n- 修复设置黑色背景时闪退\n- 修复多选音乐添加到歌单时部分音乐未添加\n- 修复切歌时概率性闪退\n- 新增播放器音量调整\n- 修改部分文字描述",
+    "update_text": "- 修复添加黑名单后导致的闪退\n- 修复播放状态更新不同步\n- 修复设置黑色背景时闪退\n- 修复多选音乐添加到歌单时部分音乐未添加\n- 新增播放器音量调整\n- 修改部分文字描述",
     "update_data": "2023/9/16",
     "update_time": "22:58",
     "download_link": "https://ghproxy.com/?q=https%3A%2F%2Fraw.githubusercontent.com%2Fsky130%2Fupdate%2Fmain%2FZeroMusic%2Fapk%2Fapk.file",
