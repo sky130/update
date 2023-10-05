@@ -1,9 +1,9 @@
 {
-    "version_code": "24",
-    "version_name": "2.0.1",
-    "update_text": "- 修复添加黑名单后导致的闪退\n- 修复播放状态更新不同步\n- 修复设置黑色背景时闪退\n- 修复多选音乐添加到歌单时部分音乐未添加\n- 修复切歌时概率性闪退\n- 新增播放器音量调整\n- 修改部分文字描述",
-    "update_data": "2023/9/16",
-    "update_time": "23:37",
+    "version_code": "25",
+    "version_name": "2.1.0-Dev",
+    "update_text": "- 新增零度音乐Pro\n- 修复无法删除歌单内歌曲\n- 优化音乐封面\n- 新增歌手界面",
+    "update_data": "2023/10/5",
+    "update_time": "20:50",
     "download_link": "https://ghproxy.com/?q=https%3A%2F%2Fraw.githubusercontent.com%2Fsky130%2Fupdate%2Fmain%2FZeroMusic%2Fapk%2Fapk.file",
     "github_link": "https://sky130.github.io/update/ZeroMusic/apk/apk.file"
 }
