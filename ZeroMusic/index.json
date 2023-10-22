@@ -1,9 +1,9 @@
 {
-    "version_code": "25",
-    "version_name": "2.1.0-Dev",
-    "update_text": "- 新增零度音乐Pro\n- 修复无法删除歌单内歌曲\n- 优化音乐封面\n- 新增歌手界面",
-    "update_data": "2023/10/5",
-    "update_time": "20:50",
+    "version_code": "27",
+    "version_name": "2.1.2-Dev",
+    "update_text": "- 修复大量BUG",
+    "update_data": "2023/10/22",
+    "update_time": "17:31",
     "download_link": "https://ghproxy.com/?q=https%3A%2F%2Fraw.githubusercontent.com%2Fsky130%2Fupdate%2Fmain%2FZeroMusic%2Fapk%2Fapk.file",
-    "github_link": "https://sky130.github.io/update/ZeroMusic/apk/apk.file"
+    "github_link": "https://sky130.github.io/update/ZeroMusic/apk/apk.file",
 }
