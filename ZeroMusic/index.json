@@ -1,7 +1,7 @@
 {
     "version_code": "29",
     "version_name": "2.1.4-Dev",
-    "update_text": "- 今年最后一个版本\n- 修复在播放页面长时间后卡顿问题\n- 修复提交订单失败问题\n- 优化圆屏设备体验\n- 修复表冠滚动\n- 新增跳转Amarket更新\n- 新增问题:过渡动画不流畅",
+    "update_text": "- 今年最后一个版本\n- 修复在播放页面长时间后卡顿问题\n- 修复提交订单失败问题\n- 优化圆屏设备体验\n- 滚轮调节进度\n- 修复表冠滚动\n- 新增跳转Amarket更新\n- 滑动播放界面的切换播放模式按钮可以跳转页面\n- 新增问题:过渡动画不流畅",
     "update_data": "2023/12/31",
     "update_time": "22:42",
     "download_link": "https://sky2333.top/update/ZeroMusic/apk/apk.file",
