@@ -1,9 +1,9 @@
 {
-    "version_code": "28",
-    "version_name": "2.1.3-Dev",
-    "update_text": "- 修复大量BUG",
-    "update_data": "2023/10/29",
-    "update_time": "17:46",
-    "download_link": "https://ghproxy.com/?q=https%3A%2F%2Fraw.githubusercontent.com%2Fsky130%2Fupdate%2Fmain%2FZeroMusic%2Fapk%2Fapk.file",
+    "version_code": "29",
+    "version_name": "2.1.4-Dev",
+    "update_text": "- 今年最后一个版本\n- 修复在播放页面长时间后卡顿问题\n- 修复提交订单失败问题\n- 优化圆屏设备体验\n- 修复表冠滚动\n- 新增跳转Amarket更新\n- 新增问题:过渡动画不流畅",
+    "update_data": "2023/12/31",
+    "update_time": "22:42",
+    "download_link": "https://sky2333.top/update/ZeroMusic/apk/apk.file",
     "github_link": "https://sky130.github.io/update/ZeroMusic/apk/apk.file"
 }
