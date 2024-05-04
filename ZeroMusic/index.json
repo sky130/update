@@ -1,9 +1,9 @@
 {
-    "version_code": "30",
-    "version_name": "2.1.5-Dev",
-    "update_text": "- 今年第一个新版本🎉🎉🎉\n- 修复音频焦点\n- 优化三星手表使用\n\n上个版本修复内容:\n- 修复在播放页面长时间后卡顿问题\n- 修复提交订单失败问题\n- 优化圆屏设备体验\n- 滚轮调节进度\n- 修复表冠滚动\n- 新增跳转Amarket更新\n- 滑动播放界面的切换播放模式按钮可以跳转页面\n- 新增问题:过渡动画不流畅",
-    "update_data": "2024/1/7",
-    "update_time": "11:43",
-    "download_link": "https://cdn.lightxi.com/cloudreve/uploads/2024/01/07/aTPcXrcb_%E9%9B%B6%E5%BA%A6%E9%9F%B3%E4%B9%90_2.1.5-Dev.apk",
-    "github_link": "https://cdn.lightxi.com/cloudreve/uploads/2024/01/07/aTPcXrcb_%E9%9B%B6%E5%BA%A6%E9%9F%B3%E4%B9%90_2.1.5-Dev.apk"
+    "version_code": "31",
+    "version_name": "2.1.6-Dev",
+    "update_text": "- 优化表冠滚动动画\n- 优化数据库\n- 优化部分圆屏界面\n- 新增表冠滚动修改音量\n- 优化部分操作逻辑",
+    "update_data": "2024/5/4",
+    "update_time": "14:28",
+    "download_link": "https://cdn.lightxi.com/cloudreve/uploads/2024/05/04/4D4P7QCQ_%E9%9B%B6%E5%BA%A6%E9%9F%B3%E4%B9%90_2.1.6-Dev.apk",
+    "github_link": "https://cdn.lightxi.com/cloudreve/uploads/2024/05/04/4D4P7QCQ_%E9%9B%B6%E5%BA%A6%E9%9F%B3%E4%B9%90_2.1.6-Dev.apk"
 }
