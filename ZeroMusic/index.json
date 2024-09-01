@@ -1,9 +1,9 @@
 {
-    "version_code": "31",
-    "version_name": "2.1.6-Dev",
-    "update_text": "- 优化表冠滚动动画\n- 优化数据库\n- 优化部分圆屏界面\n- 新增表冠滚动修改音量\n- 优化部分操作逻辑",
-    "update_data": "2024/5/4",
-    "update_time": "14:28",
-    "download_link": "https://cdn.lightxi.com/cloudreve/uploads/2024/05/04/4D4P7QCQ_%E9%9B%B6%E5%BA%A6%E9%9F%B3%E4%B9%90_2.1.6-Dev.apk",
-    "github_link": "https://cdn.lightxi.com/cloudreve/uploads/2024/05/04/4D4P7QCQ_%E9%9B%B6%E5%BA%A6%E9%9F%B3%E4%B9%90_2.1.6-Dev.apk"
+    "version_code": "32",
+    "version_name": "2.2.0-Finale",
+    "update_text": "- 优化部分圆屏界面\n- 优化表冠滚动修改音量\n- 优化部分操作逻辑\n- 新增长按播放键调节播放进度\n\n目前，零度音乐不再更新2.x版本，也暂时不提供零度音乐Pro的开通，因为代码老旧维护困难，同时因为学业问题，所以停更一段时间\n在未来会提供重构的3.x版本，敬请期待",
+    "update_data": "2024/9/1",
+    "update_time": "9:15",
+    "download_link": "https://cdn.lightxi.com/cloudreve/uploads/2024/09/01/qRF54hwo_app-release-unsigned_sign.apk",
+    "github_link": "https://cdn.lightxi.com/cloudreve/uploads/2024/09/01/qRF54hwo_app-release-unsigned_sign.apk"
 }
