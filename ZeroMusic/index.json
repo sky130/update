@@ -1,9 +1,9 @@
 {
-    "version_code": "33",
-    "version_name": "2.2.1-DX",
-    "update_text": "- 优化部分圆屏界面\n- 优化表冠滚动修改音量\n- 优化部分操作逻辑\n- 新增长按播放键调节播放进度\n- 修复歌单删除部分歌曲闪退问题\n- 修复高版本Android无法正常使用\n- 修复应用内音量调节在重启软件后不生效\n\n目前，零度音乐还在更新2.x版本，但不会再推出新功能，仅修复使用问题，因为代码老旧维护困难，同时因为学业问题，所以停更一段时间\n在未来会提供重构的3.x版本，敬请期待",
-    "update_data": "2024/11/3",
-    "update_time": "15:46",
-    "download_link": "https://cdn.lightxi.com/cloudreve/uploads/2024/11/03/Qo5MKpAb_%E9%9B%B6%E5%BA%A6%E9%9F%B3%E4%B9%90_2.2.1-DX.apk",
-    "github_link": "https://cdn.lightxi.com/cloudreve/uploads/2024/11/03/Qo5MKpAb_%E9%9B%B6%E5%BA%A6%E9%9F%B3%E4%B9%90_2.2.1-DX.apk"
+  "version_code": "80",
+  "version_name": "3.0.0",
+  "update_text": "这次更新重构了软件底层，带来新的架构和更稳定的使用体验。\n主要重写了数据库、歌词界面、播放逻辑和界面布局：\n数据库逻辑升级为新的开发框架，减少旧架构带来的潜在问题；\n歌词界面增强了动效表现；\n播放逻辑支持多播放内核，为更多音频数字信号处理功能打下基础；\n界面布局经过重新设计，能以更少的适配代码兼容方屏和圆屏设备。\n本次更新还包括：\n- 歌单逻辑优化\n- UI 设计统一\n- 静态流体播放背景\n- 定时器重新设计\n- 设置页重新设计\n- 专辑页重新设计\n- 艺术家页重新设计\n- 多艺术家信息正确拆分\n- OPPO 表冠适配优化\n- 支持均衡器和压限器\n- 单击播放行为全局统一\n- 音乐扫描逻辑重新设计\n- 滚轮调节音量的动画效果\n- 本地音乐的展示排序支持\n- 新增快捷菜单\n- 新增播放模式：随机单曲循环\n- 歌词字体增强，支持字重字体\n- 使用系统缩略图缓存替代应用内置缓存\n- 新增播放统计：总时长、播放次数、今日时长\n- 同时支持 MediaPlayer 和 ExoPlayer",
+  "update_data": "2026/6/6",
+  "update_time": "23:08",
+  "download_link": "https://cdn.lightxi.com/cloudreve/uploads/2026/06/06/pbeFu3Ui_%E9%9B%B6%E5%BA%A6%E9%9F%B3%E4%B9%90_3.0.0.apk",
+  "github_link": "https://cdn.lightxi.com/cloudreve/uploads/2026/06/06/pbeFu3Ui_%E9%9B%B6%E5%BA%A6%E9%9F%B3%E4%B9%90_3.0.0.apk"
 }
